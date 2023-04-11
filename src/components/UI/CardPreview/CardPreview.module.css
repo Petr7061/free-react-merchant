@@ -1,0 +1,54 @@
+.card {
+    position: absolute;
+    width: 450px;
+    z-index: 0;
+    left: 50%;
+    height: 270px;
+    transform: translateY(50%) translateX(-50%);
+    border-radius: 30px;
+    background: rgb(225, 225, 225);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8.2px); 
+    transition: 1s ease-in-out;
+    -webkit-backdrop-filter: blur(8.2px);
+    border: 1px solid rgba(255 235 95 0.7);
+}
+
+.card.active {
+    transform: translateY(-200px) translateX(-50%);
+}
+
+.cardNumber {
+    margin-bottom: 90px;
+    font-weight: 300;
+    color: rgb(38, 38, 38);
+    font-weight: 900;
+    align-self: flex-start;
+    font-family: "CreditCard";
+    font-size: 22px;
+    margin-left: 40px;
+}
+
+.cardLogo {
+    height: 40px;
+}
+
+.systemLogo {
+    width: 100px;
+}
+
+.logos_box {
+    display: flex;
+    width: 90%;
+    margin-top: 5%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-self: center;
+    margin-bottom: auto;
+}

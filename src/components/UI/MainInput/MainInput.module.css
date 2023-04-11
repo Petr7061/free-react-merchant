@@ -1,0 +1,47 @@
+.inputBox {
+    border: solid 1px #d3d3d3;
+    padding: 0 8px;
+    border-radius: 5px;
+    position: relative;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.inputBox input {
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    outline: 0;
+    padding: 24px 0 14px;
+    width: 100%;
+}
+
+.label {
+    font-size: 14px;
+    font-weight: 600;
+    width: 100px;
+    left: 15px;
+    color: #bababa;
+    position: absolute;
+    transform-origin: top left;
+    transform: translate(0, 20px) scale(1);
+    transition: all .2s ease-in-out;
+}
+
+.inputBox.active label {
+    color: #406cff;
+    transform: translate(0, 4px) scale(.8);
+}
+
+.inputBox.active {
+    border: solid 1px #406cff;
+}
+
+.inputBox.added label {
+    color: #bababa;
+    transform: translate(0, 4px) scale(.8);
+}
+
+.inputBox.added {
+    border: solid 1px #d3d3d3;
+}

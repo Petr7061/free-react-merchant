@@ -1,0 +1,25 @@
+.btn {
+    width: 80%;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #406cff,#5e83ff);
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    box-shadow: 0 0 2px 2px #406cff;
+}
+
+.buttonTitle {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    letter-spacing: .5px;
+    font-weight: 600;
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 15px 2px #406cff;
+}

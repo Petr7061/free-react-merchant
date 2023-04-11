@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee6770bc.css",
+    "main.js": "/static/js/main.01cf3954.js",
+    "static/media/mastercard.png": "/static/media/mastercard.01f8b8f1d36fc4d50f30.png",
+    "static/media/gazprombank.png": "/static/media/gazprombank.73c571520626b79bf2ae.png",
+    "static/media/visa.png": "/static/media/visa.a256fe8d10a184e28772.png",
+    "static/media/CreditCard.ttf": "/static/media/CreditCard.8d7994cdb4113aba391d.ttf",
+    "static/media/sber.png": "/static/media/sber.a9b8d9c6ea69f123d7c4.png",
+    "static/media/tinkoff.png": "/static/media/tinkoff.6f6975f93cfaf341009d.png",
+    "static/media/sovkombank.png": "/static/media/sovkombank.b472daef006a53d25e55.png",
+    "static/media/mir.png": "/static/media/mir.ece54c17d0fa4e4942d5.png",
+    "static/media/alfabank.png": "/static/media/alfabank.ed2c9d843dfc5a531b30.png",
+    "static/media/vtb.png": "/static/media/vtb.d8bede357c4e2b2cfe68.png",
+    "static/media/uralsib.svg": "/static/media/uralsib.dad79d8c4af6a7cca608acbdba5a8666.svg",
+    "static/media/errorIcon.svg": "/static/media/errorIcon.f0fbb008011ed9e217f5c594507f1b90.svg",
+    "index.html": "/index.html",
+    "main.ee6770bc.css.map": "/static/css/main.ee6770bc.css.map",
+    "main.01cf3954.js.map": "/static/js/main.01cf3954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6770bc.css",
+    "static/js/main.01cf3954.js"
+  ]
+}
