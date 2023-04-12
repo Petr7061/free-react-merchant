@@ -1,4 +1,4 @@
-# A great merchant on React and Typescript for your phishing
+# A great merchant on React and Typescript for your projects
 
 I hope this script will help you, if you have any problems - create an issue
 
@@ -6,10 +6,9 @@ I hope this script will help you, if you have any problems - create an issue
 
 1) Download the project
 2) Edit web for yourself
-3) insert your chat id and bot token for logs in `sendData.ts`
 3) `npm start` for test or `npm run build` for production
 4) upload the  files from build/ to hosting
-5) happy scaming ^_^
+5) Done ^_^
 
 
 ### How it looks
@@ -17,13 +16,6 @@ I hope this script will help you, if you have any problems - create an issue
 ![image](https://user-images.githubusercontent.com/98378363/231260694-14cf0cae-5e6d-4dee-b774-8de8efd10d49.png)
 ![image](https://user-images.githubusercontent.com/98378363/231260969-4ca92191-833e-4177-b5df-9fa080d33494.png)
 ![image](https://user-images.githubusercontent.com/98378363/231261230-a6346718-260f-4ffe-bfdf-0088a82095c7.png)
-
-
-
-
-
-
-https://user-images.githubusercontent.com/98378363/231261927-84804087-e3e7-4beb-92a5-ec1f7555825b.mp4
 
 ### Unpleasant features
 
